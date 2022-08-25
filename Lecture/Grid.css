@@ -1,0 +1,13 @@
+iframe{
+    /* width:80%; */
+    /* height: 500px; */
+    width:80vw;
+    height:calc(0.5625*80vw);
+    display:block;
+    margin:0 auto;/*auto means equal margin on both sides*/
+    
+    max-width: 500px;
+    min-width: 100px;
+    max-height: 400px;
+
+}
